@@ -1,4 +1,4 @@
-# Cassava_GWAS_BA
+# Code_for_GWAS_input_(Cassava_BA)
 
 """
 The codes describe a step by step procedure, on how to produce MAP, PED and pheno files from an excisting VCF file and the reference genome the VCF file was produced from. 
